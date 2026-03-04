@@ -6,7 +6,7 @@ function A() {
     const { fullName } = useContext(context)
     return (
         <>
-            <div>A fullName : {fullName}</div>
+            <div>A fullName Họ Và Tên : {fullName}</div>
             <C />
         </>
     )
